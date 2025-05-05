@@ -66,7 +66,6 @@ source("heatmaps.R")
 
 # === Simulate Pitching Scenarios ===
 source("dynamic_pitcher.R")
-
-
-
-  
+```
+Landon Myhill
+github.com/landon-myhill
